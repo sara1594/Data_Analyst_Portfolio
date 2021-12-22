@@ -35,7 +35,7 @@ Processes :
 **Code:** [`Missing Persons and Racial Disparity in Media`](https://public.tableau.com/app/profile/sachie.tran/viz/MissingPersonsandRacialDisparityinMedia/Dashboard1#1)   
 **Project Description:**
 Background : 
-
+   
 The goal of this project is to answer these questions;
 - 
 
@@ -103,6 +103,6 @@ Processes :
 2) Data cleaning, manipulation, and validation
 3) Data analysis
 
-### US Population with Tableau
-**Tableau Public** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)
+### Project 2. US Population with Tableau
+**Tableau Public** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)   
 **Description:** aiueo
