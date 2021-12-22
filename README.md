@@ -6,9 +6,9 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 ## Table of Contents
 
 - [About](#about)
-- [My Projects](#My_projects)
-- [My Certificates](#certificates)
-- [My Study Projects](#Study_projects)
+- [My Projects](#my-projects)
+- [My Certificates](#my-certificates)
+- [My Study Projects](#my-study-projects)
 
 ## My Projects
 
