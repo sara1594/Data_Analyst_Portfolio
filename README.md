@@ -6,11 +6,11 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 ## Table of Contents
 
 - [About](#about)
-- [My Projects](#portfolio_projects)
+- [My Projects](#my projects)
 - [My Certificates](#certificates)
 - [My Study Projects](#Study_projects)
 
-## Portfolio Projects
+## My Projects
 
 ### Project 1. Annual Wage Comparison U.S. vs Japan
 **Code:** [`file_name`](URL)   
