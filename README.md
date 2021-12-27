@@ -12,7 +12,7 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 
 ## My Projects
 
-### Project 1. Annual Wage Comparison U.S. vs Japan
+### Project 1. Annual Wage Comparison U.S. vs Japan()
 **Code:** [`file_name`](URL)   
 **Project Description:** 
 Background : 
@@ -34,7 +34,7 @@ Processes :
 ### Project 2. Missing Persons and Racial Disparity in Media
 **Code:** [`Missing Persons and Racial Disparity in Media`](https://public.tableau.com/app/profile/sachie.tran/viz/MissingPersonsandRacialDisparityinMedia/Dashboard1#1)   
 **Project Description:**
-Background : 
+Background :   
    
 The goal of this project is to answer these questions;
 - 
