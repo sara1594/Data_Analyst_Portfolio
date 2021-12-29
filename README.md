@@ -14,18 +14,18 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 
 ### Project 1. Annual Wage Comparison U.S. vs Japan()
 **Code:** [`file_name`](URL)   
-**Project Description:** 
-Background : 
+**Project Description:**  
+**Background :** 
 California is one of the richest state by median household income in the country, and their wages seem to be much higher than the ones in Tokyo. However, the wages in the U.S. widely vary depending on the states. It made me wonder that what I see by comparing two countries, and what causes the difference.
 
-The goal of this project is to answer these questions;
+**The goal of this project is to answer these questions;**
 - Do educational backgrounds affect earnings? If yes, how?
 - Do the wages on same professions differ between two countries? If yes, how?
 
-Technologies and Libraries : 
+**Technologies and Libraries :** 
 Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
 
-Processes :
+**Processes :**
 1) Collect data from web Scraping (https://www.bls.gov/ooh/) with Python
 2) Data screening with Microsoft Excel
 3) Data cleaning and manipulation with SQL
@@ -33,19 +33,21 @@ Processes :
 
 ### Project 2. Missing Persons and Racial Disparity in Media
 **Code:** [`Missing Persons and Racial Disparity in Media`](https://public.tableau.com/app/profile/sachie.tran/viz/MissingPersonsandRacialDisparityinMedia/Dashboard1#1)   
-**Project Description:**
-Background :   
-   
-The goal of this project is to answer these questions;
-- 
+**Project Description:**  
+**Background :**
+Every life matters. But bias and indifferene cause the disparity of human life. Racial disparity in Media is 'White Syndrome'. Although multiple explanations can be the reasons for this matter, the fact from data will make us think twice. 
 
-Technologies and Libraries : 
+**The goal of this project is to answer these questions;** 
+- What does 'White Syndrome' mean?
+- How does 'White Syndrome' affect on media coverage of missing persons?
 
-Processes :
-1) 
-2) 
-3) 
-4)
+ **Technologies and Libraries :** 
+Tableau
+
+**Processes :**
+1) Extract data from reliable source (NCIC website)
+2) Clean and organize data with Microsoft Excel
+3) Visualize the data wit Tableau
 
 ### Project 3.  Twitter or rotten tomatoes? (sentimental analysis)
 **Code:** [``]()   
@@ -105,4 +107,4 @@ Processes :
 
 ### Project 2. US Population with Tableau
 **Tableau Public** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)   
-**Description:** aiueo
+**Description:** 
