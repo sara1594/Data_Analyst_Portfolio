@@ -26,7 +26,7 @@ The U.S. and Japan, their national annual median wages are at the same level. Bu
 Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
 
 **Processes :**
-1) Collect data from web Scraping (https://www.bls.gov/ooh/) with Python
+1) Collect data from web scraping (https://www.bls.gov/ooh/) with Python
 2) Data screening with Microsoft Excel
 3) Data cleaning and manipulation with SQL
 4) Data analysis and Data visualization with Tableau
