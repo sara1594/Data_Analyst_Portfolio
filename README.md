@@ -12,15 +12,15 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 
 ## My Projects
 
-### Project 1. Annual Wage Comparison U.S. vs Japan()
+### Project 1. Annual Wage Comparison U.S. vs Japan
 **Code:** [`file_name`](URL)   
 **Project Description:**  
 **Background :** 
-California is one of the richest state by median household income in the country, and their wages seem to be much higher than the ones in Tokyo. However, the wages in the U.S. widely vary depending on the states. It made me wonder that what I see by comparing two countries, and what causes the difference.
+The U.S. and Japan, their national annual median wages are at the same level. But by going to the details, the unique features on each country's work situations can be found. This time, I'd like to focus on each job's educational background and its median payment.
 
 **The goal of this project is to answer these questions;**
 - Do educational backgrounds affect earnings? If yes, how?
-- Do the wages on same professions differ between two countries? If yes, how?
+- Do the wages on the same professions differ between two countries? If yes, how?
 
 **Technologies and Libraries :** 
 Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
