@@ -13,7 +13,8 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 ## My Projects
 
 ### Project 1. Annual Wage Comparison U.S. vs Japan
-**Code:** [`file_name`](URL)   
+**Code:** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/Job_Comparison.sql),
+[`jobs_from_bls.gov.ipynb`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/jobs_from_bls.gov.ipynb)   
 **Project Description:**  
 **Background :** 
 The U.S. and Japan, their national annual median wages are at the same level. But by going to the details, the unique features on each country's work situations can be found. This time, I'd like to focus on each job's educational background and its median payment.
