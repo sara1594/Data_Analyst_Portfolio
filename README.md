@@ -87,7 +87,11 @@ Processes :
 4)
 
 ## My Certificates
-[Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1MtuwBgs-rK103bbtsIlLigLbWKK4MVx8/view?usp=sharing)
+
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)   
+
+![Google Data Analytics Professional Certificate](https://github.com/sara1594/Data_Analyst_Portfolio/blob/ceeb987983d7fd4f3edfa3114952cd5305d88291/Certificate(Google%20Data%20Analytics).jpg)
+
 
 ## My Study Projects
 ### Project 1. How Can a Wellness Technology Company Play It Smart? (From Google Data Analytics Course)
