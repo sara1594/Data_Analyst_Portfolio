@@ -1,4 +1,6 @@
-**The goal of this project is to answer these questions;** 
+### Project 2. Missing Persons and Racial Disparity in Media
+
+The goal of this project is to find the answers for my questions;
 - What does missing persons data show us?
 - How does 'White Syndrome' affect on media coverage of missing persons?
 
