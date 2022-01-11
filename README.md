@@ -94,23 +94,25 @@ Processes :
 
 
 ## My Study Projects
-### Project 1. How Can a Wellness Technology Company Play It Smart? (From Google Data Analytics Course)
-**Code:** [``]()   
+### Project 1. [How Can a Wellness Technology Company Play It Smart?](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F) (From Google Data Analytics Course)
+**Code:** [`fit_data_analysis.Rmd`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/94b3eefe433b33e5f1631935ffca1e9c8faed628/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F/fit_data_analysis.Rmd)   
 Senario : 
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy. (referred from Google Data Analytics Course)
 
-The goal of this project is to answer these questions;
+**The goal of this project is to answer these questions;** 
 - What are the desirable features for Bellabeat considering the current wearable device trend?
 - What feature can we add for better self-management?
 
-Technologies and Libraries : 
+**Technologies and Libraries : ** 
 R
 
-Processes :
+**Processes :** 
 1) Data import and storing
 2) Data cleaning, manipulation, and validation
-3) Data analysis
+3) Data analyzing
 
 ### Project 2. US Population with Tableau
 **Tableau Public** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)   
-**Description:**  
+**Background :**  
+Hex-tile map is one of the useful ways to display U.S. This time, I used diamond shape instead of hex shape.
+There are many useful resources in the Internet, but I mainly followed [How to use hex-tile maps to eliminate the Alaska effect](https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713). It is not a complicagted process, so I am willing to use for other visualization.
