@@ -12,7 +12,7 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 
 ## My Projects
 
-### Project 1. Annual Wage Comparison U.S. vs Japan
+### Project 1. [Annual Wage Comparison U.S. vs Japan](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan)
 **Code:** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/Job_Comparison.sql),
 [`jobs_from_bls.gov.ipynb`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/jobs_from_bls.gov.ipynb)   
 **Project Description:**  
@@ -32,7 +32,7 @@ Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
 3) Data cleaning and manipulation with SQL
 4) Data analysis and Data visualization with Tableau
 
-### Project 2. Missing Persons and Racial Disparity in Media
+### Project 2. [Missing Persons and Racial Disparity in Media](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Missing%20Persons%20and%20Racial%20Disparity%20in%20Media)
   
 **Project Description:**  
 **Background :**
@@ -51,11 +51,12 @@ Tableau
 3) Visualize the data wit Tableau
 
 ### Project 3.  Twitter or rotten tomatoes? (sentimental analysis)
-**Code:** [``]()   
-Background : 
+**Code:** [``]()
 
+Background :
+ 
 The goal of this project is to answer these questions;
-- 
+ 
 - 
 
 Technologies and Libraries : 
