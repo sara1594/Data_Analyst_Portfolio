@@ -33,13 +33,13 @@ Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
 4) Data analysis and Data visualization with Tableau
 
 ### Project 2. Missing Persons and Racial Disparity in Media
-**Code:** [`Missing Persons and Racial Disparity in Media`](https://public.tableau.com/app/profile/sachie.tran/viz/MissingPersonsandRacialDisparityinMedia/Dashboard1#1)   
+  
 **Project Description:**  
 **Background :**
-Every life matters. But bias and indifferene cause the disparity of human life. Racial disparity in Media is 'White Syndrome'. Although multiple explanations can be the reasons for this matter, the fact from data will make us think twice. 
+Every life matters, but bias and indifferene cause the disparity of human life. Racial disparity in Media is 'White Syndrome'. Although some reasonings can be used for the explanations of this matter, the fact from data will make us think twice of the equal chance of saving people's lives. 
 
 **The goal of this project is to answer these questions;** 
-- What does 'White Syndrome' mean?
+- Who is actually missing?
 - How does 'White Syndrome' affect on media coverage of missing persons?
 
  **Technologies and Libraries :** 
