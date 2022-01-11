@@ -1,4 +1,4 @@
-### Project 2. Missing Persons and Racial Disparity in Media
+### Project 1. Annual Wage Comparison U.S. vs Japan
 
 By comparing the occupational data between Japan and U.S., I'd like to find the answers for my questions;
 - Do educational background affect earnings? If yes, how?
