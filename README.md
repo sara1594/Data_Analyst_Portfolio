@@ -53,15 +53,15 @@ Tableau
 ### Project 3.  Twitter or rotten tomatoes? (sentimental analysis)
 **Code:** [``]()
 
-Background :
+**Background :** 
  
-The goal of this project is to answer these questions;
+**The goal of this project is to answer these questions;** 
  
 - 
 
-Technologies and Libraries : 
+**Technologies and Libraries : ** 
 
-Processes :
+**Processes :** 
 1) 
 2) 
 3) 
@@ -69,18 +69,18 @@ Processes :
 
 ### Project 4.  Airbnb in NYC (Exploratory data analysis)
 **Code:** [``]()   
-Background : 
+**Background : ** 
 After this pandemic, I’d like to go travel to east coast. Doing logging research is important because it deeply relates to our trip plan. 
  
-The goal of this project is to answer these questions;
+**The goal of this project is to answer these questions;** 
 - What is the price range of each area?
 - Which area is the most popular place to stay?
 - Which area has the best cost-performance?
 - 
 
-Technologies and Libraries : 
+**Technologies and Libraries : ** 
 
-Processes :
+**Processes :** 
 1) 
 2) 
 3) 
@@ -96,14 +96,14 @@ Processes :
 ## My Study Projects
 ### Project 1. [How Can a Wellness Technology Company Play It Smart?](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F) (From Google Data Analytics Course)
 **Code:** [`fit_data_analysis.Rmd`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/94b3eefe433b33e5f1631935ffca1e9c8faed628/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F/fit_data_analysis.Rmd)   
-Senario : 
+**Senario : ** 
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy. (referred from Google Data Analytics Course)
 
 **The goal of this project is to answer these questions;** 
 - What are the desirable features for Bellabeat considering the current wearable device trend?
 - What feature can we add for better self-management?
 
-**Technologies and Libraries : ** 
+**Technologies and Libraries : **   
 R
 
 **Processes :** 
