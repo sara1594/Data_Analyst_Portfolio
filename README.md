@@ -49,41 +49,7 @@ Tableau
 2) Clean and organize data with Microsoft Excel
 3) Visualize the data wit Tableau
 
-### Project 3.  Twitter or rotten tomatoes? (sentimental analysis)
-**Code :** [``]()
 
-**Background :**
-
-**The goal of this project is to answer these questions ;** 
-
-
-**Technologies and Libraries :**  
-
-**Processes :**  
-1) 
-2) 
-3) 
-4)
-
-### Project 4.  Airbnb in NYC (Exploratory data analysis)
-**Code :** [``]()  
-
-**Background :**  
-After this pandemic, I’d like to go travel to east coast. Doing logging research is important because it deeply relates to our trip plan. 
- 
-**The goal of this project is to answer these questions ;**   
-- What is the price range of each area?
-- Which area is the most popular place to stay?
-- Which area has the best cost-performance?
-- 
-
-**Technologies and Libraries :** 
-
-**Processes :** 
-1) 
-2) 
-3) 
-4)
 
 ## My Certificates
 
