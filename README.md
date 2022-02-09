@@ -79,5 +79,5 @@ R
 ### Project 2. US Population with Tableau
 **Tableau Public :** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)   
 **Background :**  
-Hex-tile map is a simple but effective way to display U.S. by states. This time, I used diamond shape instead of hex shape, but it gives the same result.
+Hex-tile map is a simple but effective way to display U.S. by states. This time, I used diamond shape instead of hex shape.
 There are many useful resources on the Internet for creating a hex-tile map, but I mainly followed [How to use hex-tile maps to eliminate the Alaska effect](https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713). It is not very complicagted process, so this method will be in my tool box for visualization.
