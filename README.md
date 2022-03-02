@@ -103,8 +103,8 @@ R, Microsoft Excel
 <br/>
 
 ### Project 2. US Population with Tableau
-**Tableau Public :** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)
-**Code :** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/e1bf165968548251c62d9bfe65fe9f85bc1704b5/My_Study_Projects/US%20Population%20with%20Tableau/Job_Comparison.sql) 
+**Tableau Public :** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)  
+**Code :** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/e1bf165968548251c62d9bfe65fe9f85bc1704b5/My_Study_Projects/US%20Population%20with%20Tableau/Job_Comparison.sql)   
 **Background :**  
 Hex tile maps are sometimes an effective way to comprehend data. Tableau enables us to create those simplified maps, so I wanted to try it myself. This time, I used diamond shape instead of hex shape. There are many useful resources on the Internet for creating a hex-tile map, but I mainly followed [How to use hex-tile maps to eliminate the Alaska effect](https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713). It is not a very complicated process, so this method will be in my tool box of data visualization.
 
