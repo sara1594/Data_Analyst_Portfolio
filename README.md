@@ -93,7 +93,7 @@ You are a junior data analyst working on the marketing analyst team at Bellabeat
 - What feature can we add for better self-management?
 
 **Technologies and Libraries :**    
-R
+R, Microsoft Excel
 
 **Processes :** 
 1) Data import and storing
@@ -110,7 +110,7 @@ Hex-tile map is a simple but effective way to display U.S. by states. This time,
 There are many useful resources on the Internet for creating a hex-tile map, but I mainly followed [How to use hex-tile maps to eliminate the Alaska effect](https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713). It is not very complicagted process, so this method will be in my tool box for visualization.
 
 **Technologies and Libraries :**    
-SQL, Microsoft Excel
+SQL, Tableau, Microsoft Excel
 
 **Processes :** 
 1) Data import and storing
