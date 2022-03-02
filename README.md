@@ -13,7 +13,7 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 ## My Projects
 
 ### Project 1. [Student Alcohol Consumption](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Student%20Alcohol%20Consumption)
-**Code :** [`Student_list-3.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/b4995307911ca67ad2d8dba3dd5683a7ae8cc3fd/My_Projects/Student%20Alcohol%20Consumption/Student_list_3.sql),
+**Code :** [`Student_list_4.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/5d1d53091035875e09f7bf4ce8f7b966b6a60820/My_Projects/Student%20Alcohol%20Consumption/Student_list_4.sql),
 [`alcohol_consumption.Rmd`]()   
 
 **Background :** 
