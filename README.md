@@ -97,13 +97,22 @@ R
 
 **Processes :** 
 1) Data import and storing
-2) Data cleaning, manipulation, and validation
-3) Data analyzing
+2) Data cleaning, manipulation, and validation with Microsoft Excel and R
+3) Data analyzing and visualization with R
 
 <br/>
 
 ### Project 2. US Population with Tableau
-**Tableau Public :** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)   
+**Tableau Public :** [`US States Population`](https://public.tableau.com/app/profile/sachie.tran/viz/USStatesPopulation_16334518073820/Dashboard1)
+**Code :** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/e1bf165968548251c62d9bfe65fe9f85bc1704b5/My_Study_Projects/US%20Population%20with%20Tableau/Job_Comparison.sql) 
 **Background :**  
 Hex-tile map is a simple but effective way to display U.S. by states. This time, I used diamond shape instead of hex shape.
 There are many useful resources on the Internet for creating a hex-tile map, but I mainly followed [How to use hex-tile maps to eliminate the Alaska effect](https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713). It is not very complicagted process, so this method will be in my tool box for visualization.
+
+**Technologies and Libraries :**    
+SQL, Microsoft Excel
+
+**Processes :** 
+1) Data import and storing
+2) Data cleaning, manipulation, and validation with Microsoft Excel and SQL
+3) Data analyzing and visualization with Tableau 
