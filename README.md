@@ -65,12 +65,12 @@ Every life matters, but bias and indifferene cause the disparity of human life. 
 - How does 'White Syndrome' affect on media coverage of missing persons?
 
 **Technologies and Libraries :**    
-Tableau
+Tableau, Microsoft Excel
 
 **Processes :**
 1) Extract data from reliable source (NCIC website)
 2) Clean and organize data with Microsoft Excel
-3) Visualize the data wit Tableau
+3) Visualize the data with Tableau
 
 <br/>
 
