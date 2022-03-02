@@ -72,7 +72,7 @@ Tableau
 2) Clean and organize data with Microsoft Excel
 3) Visualize the data wit Tableau
 
-
+<br/>
 
 ## My Certificates
 
@@ -80,6 +80,7 @@ Tableau
 
 ![Google Data Analytics Professional Certificate](https://github.com/sara1594/Data_Analyst_Portfolio/blob/ceeb987983d7fd4f3edfa3114952cd5305d88291/Certificate(Google%20Data%20Analytics).jpg)
 
+<br/>
 
 ## My Study Projects
 ### Project 1. [How Can a Wellness Technology Company Play It Smart?](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F) (From Google Data Analytics Course)
