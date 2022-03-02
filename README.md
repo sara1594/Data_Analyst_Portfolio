@@ -22,7 +22,7 @@ I found an interesting dataset, "Student Alcohol Consumption", which is about se
 **The goal of this project is to answer this question ;**
 - Does alcohol consumption relate to students’ school performance, and if it does, what can they do to control drinking?
 
-**Technologies and Libraries :** 
+**Technologies and Libraries :**    
 R, SQL Server Management Studio (SSMS), Microsoft Excel
 
 **Processes :**
@@ -44,7 +44,7 @@ The U.S. and Japan, their national annual median wages are at the same level. Bu
 - Do educational backgrounds affect earnings? If yes, how?
 - Do the wages on the same professions differ between two countries? If yes, how?
 
-**Technologies and Libraries :** 
+**Technologies and Libraries :**    
 Python, SQL Server Management Studio (SSMS), Tableau, Microsoft Excel
 
 **Processes :**
@@ -64,7 +64,7 @@ Every life matters, but bias and indifferene cause the disparity of human life. 
 - Who is actually missing?
 - How does 'White Syndrome' affect on media coverage of missing persons?
 
-**Technologies and Libraries :** 
+**Technologies and Libraries :**    
 Tableau
 
 **Processes :**
