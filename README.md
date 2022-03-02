@@ -12,7 +12,28 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 
 ## My Projects
 
-### Project 1. [Annual Wage Comparison U.S. vs Japan](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan)
+### Project 1. [Student Alcohol Consumption](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Student%20Alcohol%20Consumption)
+**Code :** [`Student_list-3.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/b4995307911ca67ad2d8dba3dd5683a7ae8cc3fd/My_Projects/Student%20Alcohol%20Consumption/Student_list_3.sql),
+[`alcohol_consumption.Rmd`]()   
+
+**Background :** 
+I found an interesting dataset, alcohol consumption of secondary school students. 
+
+**The goal of this project is to answer these questions ;**
+- Does alcohol consumption affect students’ health, how?
+- Does alcohol consumption relate to students’ school outcome, how?
+
+**Technologies and Libraries :** 
+R, SQL Server Management Studio (SSMS), Microsoft Excel
+
+**Processes :**
+1) Collect data from kaggle 
+2) Data screening with Microsoft Excel
+3) Data cleaning and manipulation with SQL
+4) Data analysis and Data visualization with R
+
+
+### Project 2. [Annual Wage Comparison U.S. vs Japan](https://github.com/sara1594/Data_Analyst_Portfolio/tree/main/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan)
 **Code :** [`Job_Comparison.sql`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/Job_Comparison.sql),
 [`jobs_from_bls.gov.ipynb`](https://github.com/sara1594/Data_Analyst_Portfolio/blob/f93ab91018bb79e83d023e0718e198035da2a2f2/My_Projects/Annual%20Wage%20Comparison%20U.S.%20vs%20Japan/jobs_from_bls.gov.ipynb)   
 
