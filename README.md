@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## About
-Hi, I am Sachie, a junior analyst. The following are the part of my data journeys, and I’d like to share my skills in data analytics. Since I jumped into data analytics, I have been enjoying being around data. With the power of data analytics, I am hoping to be a part of people who help make the world better place.
+Hi, I am Sachie, a junior analyst. The following are the part of my data journeys, and I’d like to share my skills in data analytics. Since I jumped into data analytics, I have been enjoying being around data. With the power of data analytics, I am hoping to be a part of people who help make the world a better place.
 
 ## Table of Contents
 
@@ -17,11 +17,10 @@ Hi, I am Sachie, a junior analyst. The following are the part of my data journey
 [`alcohol_consumption.Rmd`]()   
 
 **Background :** 
-I found an interesting dataset, alcohol consumption of secondary school students. 
+I found an interesting dataset, "Student Alcohol Consumption", which is about secondary school students and their alcohol consumption. Drinking is a very common habit for many people. It brings us a lot of fun, but sometimes causes serious problems in our lives. Thus I wondered if I could bring any insights that would be helpful for students and their family with drinking problems through my case study of this dataset.
 
-**The goal of this project is to answer these questions ;**
-- Does alcohol consumption affect students’ health, how?
-- Does alcohol consumption relate to students’ school outcome, how?
+**The goal of this project is to answer this question ;**
+- Does alcohol consumption relate to students’ school performance, and if it does, what can they do to control drinking?
 
 **Technologies and Libraries :** 
 R, SQL Server Management Studio (SSMS), Microsoft Excel
