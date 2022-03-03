@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## About
-Hi, I am Sachie, a junior analyst. The following are the part of my data journeys, and I’d like to share my skills in data analytics. Since I jumped into data analytics, I've been enjoying being around data. With the power of data analytics, I am hoping to be a part of people who help make the world a better place.
+Hi, I am Sachie, a junior analyst. The following are the part of my data journeys, and I’d like to share my skills in data analytics. Looking back, I've been always interacting with data. But after earning Google Data Aanalytics Professional Certificate, I was more into the world of data that with sofisticated tools. Every day I make a progress to move forward on finding meaningful insights from a messay process, and that brings me a joy. My mission is; with the power of data analytics, be a part of people who help make the world a better place.
 
 ## Table of Contents
 
