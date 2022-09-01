@@ -1,1 +1,1 @@
-For view the html file, please visit [here](https://htmlpreview.github.io/?https://github.com/sara1594/Data_Analyst_Portfolio/blob/main/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F/fit_data_analysis.html) from GitHub & BitBucket HTML Preview.
+For viewing the html file, please visit [here](https://htmlpreview.github.io/?https://github.com/sara1594/Data_Analyst_Portfolio/blob/main/My_Study_Projects/How%20Can%20a%20Wellness%20Technology%20Company%20Play%20It%20Smart%3F/fit_data_analysis.html) from GitHub & BitBucket HTML Preview.
