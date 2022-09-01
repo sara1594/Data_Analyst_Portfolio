@@ -1,1 +1,1 @@
-
+For viewing the html file, please visit [here](https://github.com/sara1594/Data_Analyst_Portfolio/blob/ff044f1f65d7b303af35a23a05aff376fc917d08/My_Projects/Student%20Alcohol%20Consumption/alcohol_consumption.html) from GitHub & BitBucket HTML Preview.
