@@ -1,7 +1,7 @@
 ### Project 1. Annual Wage Comparison U.S. vs Japan
 
 By comparing the occupational data between Japan and U.S., I'd like to find the answers for my questions;
-- Do educational background affect earnings? If yes, how?
+- Does an educational background affect earnings? If yes, how?
 - Do the wages on the same professions differ between two countries? If yes, how?
 
 My answers and the visualizations are in my Tableau page  
